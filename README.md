@@ -29,7 +29,8 @@ The architecture diagram illustrates the proposed implementation for YouTube dat
 
 ## ER Diagram
 
-![ER Diagram](er_diagram.png)
+![image](https://github.com/Saswato/Youtube-Video-Data-Analysis/assets/67147010/a40c892a-3504-484e-b7e4-4468b8ae4972)
+
 
 The project consists of 20 files in CSV and JSON formats for the selected countries. A Python script is used to merge these files and generate the FinalDataset.json. Additionally, a Region column is added to the final dataset.
 
