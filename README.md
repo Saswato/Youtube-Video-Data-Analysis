@@ -17,7 +17,8 @@ To achieve this, we will utilize Talend as the data pipeline, Azure Cosmos DB as
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture_diagram.png)
+![image](https://github.com/Saswato/Youtube-Video-Data-Analysis/assets/67147010/879f2e0f-4509-4dae-887a-f94f4198618b)
+
 
 The architecture diagram illustrates the proposed implementation for YouTube data analysis. The project focuses on 10 countries, and the data is obtained in both CSV and JSON formats. The key steps involved are as follows:
 
